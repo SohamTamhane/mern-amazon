@@ -13,3 +13,18 @@
 # 3. List of Products
 1. Create data.js File in src
 2. Create images folder in public
+
+# 4. Add Routing to React App
+1. npm install react-router-dom
+2. import {BrowserRouter, Link, Route, Routes} from 'react-router-dom';
+3. <BrowserRouter>
+        <Routes>
+            <Route path="/" element={<HomeScreen />} />
+            <Route path="/product/:slug" element={<ProductScreen />} />
+            <Route path="*" element={<ErrorScreen />} />
+        </Routes>
+    </BrowserRouter>
+4. import { useParams } from 'react-router-dom'
+    const params = useParams();
+    const {slug} = params;
+5. Replace <a href="" /> with <Link to="" />
