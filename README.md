@@ -27,3 +27,16 @@
     const params = useParams(); <br>
     const {slug} = params; <br>
 5. Replace <\a href="" /> with <\Link to="" />
+
+# 5. Create Node.js Server
+1. Create new Folder Backend
+2. cd backend <br>
+    npm init
+3. In package.json, <br>
+    "type": "module"
+4. Write node server.js to start the server. <br>
+    (Install JSON Viewer Chrome Extension)
+5. npm install nodemon --save-dev
+6. "scripts": { <br>
+    "start": "nodemon server.js",
+7. npm start (to start the server)
