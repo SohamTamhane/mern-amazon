@@ -40,3 +40,9 @@
 6. "scripts": { <br>
     "start": "nodemon server.js",
 7. npm start (to start the server)
+
+# 6. Fetch Data From Backend
+1. frontend/package.json -> "proxy":"http://localhost:5000",
+2. In frontend, npm install axios
+3. In HomeScreen.js, Write the Code to fetch data from backend.
+5. replace data.products -> products
