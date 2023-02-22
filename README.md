@@ -50,3 +50,8 @@
 # 7. Manage State By Reducer Hook
 1. Replace useState with useReducer Hook
 2. In frontend, npm install use-reducer-logger --force
+
+# 8. Adding React Bootstrap
+1. In frontend, npm install react-bootstrap bootstrap --force
+2. Add Bootstrap Components
+3. npm install react-router-bootstrap --force
