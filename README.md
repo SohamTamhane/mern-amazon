@@ -55,3 +55,5 @@
 1. In frontend, npm install react-bootstrap bootstrap --force
 2. Add Bootstrap Components
 3. npm install react-router-bootstrap --force
+
+# 9. Create Product and Rating Component in Home Screen
