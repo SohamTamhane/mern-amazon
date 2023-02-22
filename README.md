@@ -57,3 +57,7 @@
 3. npm install react-router-bootstrap --force
 
 # 9. Create Product and Rating Component in Home Screen
+
+# 10. Create Product Screen
+1. npm install react-helmet-async <br>
+    To change to title of the Web Page.

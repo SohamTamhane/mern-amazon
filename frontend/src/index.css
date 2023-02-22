@@ -30,6 +30,10 @@ main{
   color: black;
 }
 
+.img-large{
+  max-width: 100%;
+}
+
 .product{
   border: 1px solid #404040;
   margin: 1rem;
