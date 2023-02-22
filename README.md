@@ -46,3 +46,7 @@
 2. In frontend, npm install axios
 3. In HomeScreen.js, Write the Code to fetch data from backend.
 5. replace data.products -> products
+
+# 7. Manage State By Reducer Hook
+1. Replace useState with useReducer Hook
+2. In frontend, npm install use-reducer-logger --force
