@@ -61,3 +61,5 @@
 # 10. Create Product Screen
 1. npm install react-helmet-async <br>
     To change to title of the Web Page.
+
+# 11. Add Loading Component
