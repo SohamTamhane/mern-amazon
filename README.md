@@ -63,3 +63,6 @@
     To change to title of the Web Page.
 
 # 11. Add Loading Component
+
+# 12. Add to Cart
+1. Create React Context
